@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.Libreria.resources
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\bin\Debug\Gestion_Inventario_Libreria.exe.config
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\bin\Debug\Gestion_Inventario_Libreria.exe
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\bin\Debug\Gestion_Inventario_Libreria.pdb
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.exe
+C:\Users\HP\OneDrive\Documentos\Examen Parcial I\Gestion_Inventario_Libreria\Gestion_Inventario_Libreria\obj\Debug\Gestion_Inventario_Libreria.pdb
